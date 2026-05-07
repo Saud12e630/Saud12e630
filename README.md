@@ -1,16 +1,25 @@
-## Hi there 👋
+ Hi, I'm Saud Ibrahim Shajiri
 
-<!--
-**Saud12e630/Saud12e630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ About Me
+I am an **Information Technology** specialist with a deep passion for **Data Science and Analytics**. I enjoy transforming raw data into meaningful insights through cleaning, processing, and visualization.
 
-Here are some ideas to get you started:
+*  **Background:** Information Technology.
+*  **Focus:** Data Analysis, Data Cleaning, and Machine Learning.
+*  **Tools:** Python (Pandas, NumPy), Power BI, SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Featured Project: Coffee Shop Sales Analysis
+This project focuses on analyzing sales data for a coffee shop to uncover business insights.
+
+Data Cleaning: Used **Python (Pandas)** to handle missing values and standardize data.
+Visualization: Developed a professional **Power BI Dashboard** to track KPIs, peak hours, and top-selling products.
+
+---
+
+Future Goals
+I am continuously building my skills in the data field and looking forward to contributing to impactful data-driven projects.
+
+How to reach me:
+[LinkedIn](https://www.linkedin.com/in/saud-shajry-?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[Email](saadshajry@gmail.com)
